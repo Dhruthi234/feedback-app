@@ -1,5 +1,10 @@
-# feedback-app
+feedback-app
 A full-stack feedback app using React, Node.js, Express, and MongoDB. Users submit validated feedback with star ratings via a responsive, accessible UI. It features a REST API, real-time validation, and secure data handling. Perfect for collecting and managing user feedback efficiently. 
+
+
+Live Demo
+Check out the app here: [https://v0-feedback-frontend.vercel.app/](https://v0-feedback-frontend.vercel.app/)
+
 
 Features
 Responsive UI with React and Bootstrap
